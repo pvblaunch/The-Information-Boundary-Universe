@@ -21,25 +21,8 @@ To balance absolute legal timeline verification with active scientific dialogue,
 
 1. **The Core Paper (The Anchor):** [The Information Boundry Universe](https://zenodo.org/records/22260254)  
    *The frozen, time-stamped version of record containing the complete formal manuscript, permanent Crossref DOI, and priority date stamp.*
-2. **The Living Vault (This Repository):** [GitHub Workspace](https://github.com/pvblaunch/The-Information-Boundary-Universe)  
-   *The structured laboratory archive containing expanded text proofs, structural cellular error-correction layouts, and version-controlled data logs.*
-3. **The Active Discussion (The Jam Session):** [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)  
+2. **The Active Discussion:** [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)  
    *The narrative research notebook where weekly updates, conceptual expansions, and open peer discussions take place in plain, universal language.*
-
----
-
-## 📂 Repository Architecture
-
-The physical and logical boundaries of this framework are organized into specialized directories for targeted navigation:
-
-* **`/axioms-and-foundations`**  
-  Formal text documentation defining the semantic information engine, holographic boundary limits, and Planck-Turing-Gödel constraints.
-* **`/cellular-protocols`**  
-  Structural models detailing quantum error-correction protocols within multi-agent biological networks and cell matrices.
-* **`/non-algorithmic-proofs`**  
-  Step-by-step analytical derivations establishing the mathematical necessity of sequential, real-time spatial execution.
-* **`/addendums-and-extensions`**  
-  Deep-dive text supplements expanding upon individual theoretical layers or addressing direct feedback from peer reviewers.
 
 ---
 
