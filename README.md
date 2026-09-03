@@ -15,11 +15,11 @@ Further, we introduce the directive of Semantic Accuracy as an Active Biophysica
 
 ---
 
-## 🗺️ Research Ecosystem Navigation
+## 🗺️ Research Navigation
 
-To balance absolute legal timeline verification with active scientific dialogue, this research branch is distributed across three synchronized hubs:
+To balance absolute legal timeline verification with active scientific dialogue, this research branch is distributed across synchronized hubs:
 
-1. **The Core Paper (The Anchor):** [The Information Boundry Universe](https://zenodo.org/records/22260254)  
+1. **The Core Paper:** [The Information Boundry Universe](https://zenodo.org/records/22260254)  
    *The frozen, time-stamped version of record containing the complete formal manuscript, permanent Crossref DOI, and priority date stamp.*
 2. **The Active Discussion:** [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)  
    *The narrative research notebook where weekly updates, conceptual expansions, and open peer discussions take place in plain, universal language.*
@@ -28,11 +28,11 @@ To balance absolute legal timeline verification with active scientific dialogue,
 
 ## 💬 Peer Review & Collaborative Discussion
 
-Theoretical advancements thrive on rigorous, open critique. If you wish to interact with the logic of this paper, please use the appropriate channel below:
+For academic dialogue, community extensions, and technical feedback regarding this framework:
 
-* **Technical Queries & Logical Derivations:** To debate an axiom, challenge a boundary constraint, or analyze specific error-correction mechanics, please open a structured thread in the [GitHub Discussions Tab](https://github.com/pvblaunch/The-Information-Boundary-Universe). This keeps technical peer review transparent and publicly searchable.
-* **General Commentary & Meta-Analysis:** To engage with the broader philosophical and cosmological implications of an information-boundary universe, leave a comment on the corresponding essay at [Substack](https://semanticbiophysics.substack.com).
-
+* **Public Forum:** Please open a thread in the [GitHub Discussions Tab](https://github.com/discussions) to ask questions or share your implementation results.
+* **Research Updates:** For ongoing deep-dives and essays surrounding this research, subscribe to my [Substack](https://semanticbiophysics.substack.com).
+  
 ---
 
 ## ⚖️ Intellectual Property & Copyright Notice
