@@ -28,7 +28,7 @@ If you are building on this research framework or referencing it in an article, 
 
 For academic dialogue, community extensions, and technical feedback regarding this framework:
 
-* **Public Forum:** Please open a thread in the [GitHub Discussions Tab]([https://github.com/discussions](https://github.com/pvblaunch/The-Information-Boundary-Universe/discussions) to ask questions or share your implementation results.
+* **Public Forum:** Please open a thread in the [GitHub Discussions Tab](https://github.com/pvblaunch/The-Information-Boundary-Universe/discussions) to ask questions or share your implementation results.
 * **Research Updates:** For ongoing updates surrounding this research, subscribe to [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com).
   
 ---
