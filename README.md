@@ -19,11 +19,11 @@ Further, we introduce the directive of Semantic Accuracy as an Active Biophysica
 
 To balance absolute legal timeline verification with active scientific dialogue, this research branch is distributed across three synchronized hubs:
 
-1. **The Core Paper (The Anchor):** [Preprint Ledger on Preprints.org](PASTE_YOUR_PREPRINTS_DOT_ORG_URL_HERE)  
+1. **The Core Paper (The Anchor):** [The Information Boundry Universe](https://zenodo.org/records/22260254)  
    *The frozen, time-stamped version of record containing the complete formal manuscript, permanent Crossref DOI, and priority date stamp.*
-2. **The Living Vault (This Repository):** [GitHub Workspace](PASTE_YOUR_GITHUB_REPO_URL_HERE)  
+2. **The Living Vault (This Repository):** [GitHub Workspace](https://github.com/pvblaunch/The-Information-Boundary-Universe)  
    *The structured laboratory archive containing expanded text proofs, structural cellular error-correction layouts, and version-controlled data logs.*
-3. **The Active Discussion (The Jam Session):** [Semantic Biophysics on Substack](PASTE_YOUR_SUBSTACK_URL_HERE)  
+3. **The Active Discussion (The Jam Session):** [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)  
    *The narrative research notebook where weekly updates, conceptual expansions, and open peer discussions take place in plain, universal language.*
 
 ---
@@ -47,15 +47,15 @@ The physical and logical boundaries of this framework are organized into special
 
 Theoretical advancements thrive on rigorous, open critique. If you wish to interact with the logic of this paper, please use the appropriate channel below:
 
-* **Technical Queries & Logical Derivations:** To debate an axiom, challenge a boundary constraint, or analyze specific error-correction mechanics, please open a structured thread in the [GitHub Discussions Tab](PASTE_LINK_TO_YOUR_GITHUB_DISCUSSIONS_HERE). This keeps technical peer review transparent and publicly searchable.
-* **General Commentary & Meta-Analysis:** To engage with the broader philosophical and cosmological implications of an information-boundary universe, leave a comment on the corresponding essay at [Substack](PASTE_YOUR_SUBSTACK_URL_HERE).
+* **Technical Queries & Logical Derivations:** To debate an axiom, challenge a boundary constraint, or analyze specific error-correction mechanics, please open a structured thread in the [GitHub Discussions Tab](https://github.com/pvblaunch/The-Information-Boundary-Universe). This keeps technical peer review transparent and publicly searchable.
+* **General Commentary & Meta-Analysis:** To engage with the broader philosophical and cosmological implications of an information-boundary universe, leave a comment on the corresponding essay at [Substack](https://semanticbiophysics.substack.com).
 
 ---
 
 ## ⚖️ Intellectual Property & Copyright Notice
 
-© 2026 Independent Researcher. All rights reserved.
+© 2026 Patrick Boyer. All rights reserved.
 
 The foundational text, models, and logic contained within this ecosystem are public open-access assets distributed under the terms of the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. 
 
-Under international copyright law, you are free to share, copy, translate, and build upon this material for any purpose, provided that you give **appropriate credit and citation** to the original author. Any derivative work or scientific citation must link directly back to the Preprints.org DOI or this primary repository archive to preserve chronological priority.
+Under international copyright law, you are free to share, copy, translate, and build upon this material for any purpose, provided that you give **appropriate credit and citation** to the original author. Any derivative work or scientific citation must link directly back to the Zenodo.org DOI or this primary repository archive to preserve chronological priority.
