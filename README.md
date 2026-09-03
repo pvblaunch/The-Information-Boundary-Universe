@@ -15,14 +15,12 @@ Further, we introduce the directive of Semantic Accuracy as an Active Biophysica
 
 ---
 
-## 🗺️ Research Navigation
+### 🗺️ How to Reference This Work
 
-To balance absolute legal timeline verification with active scientific dialogue, this research branch is distributed across synchronized hubs:
+If you are building on this research framework or referencing it in an article, please use the following official channels:
 
-1. **The Core Paper:** [The Information Boundry Universe](https://zenodo.org/records/22260254)  
-   *The frozen, time-stamped version of record containing the complete formal manuscript, permanent Crossref DOI, and priority date stamp.*
-2. **The Active Discussion:** [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)  
-   *The narrative research notebook where weekly updates, conceptual expansions, and open peer discussions take place in plain, universal language.*
+1. **The Core Paper:** Read and cite the full framework layout on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260254).
+2. **The Active Discussion:** Join the ongoing community debate and read supplementary essays on [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
 
 ---
 
