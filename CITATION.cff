@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Boyer"
+    given-names: "P."
+title: "The Information-Boundary Universe: Formalizing Semantic Biophysics and Quantum Error-Correction Protocols in Multi-Agent Biological Networks"
+doi: "10.5281/zenodo.22260253"
+date-released: 2026-01-01
