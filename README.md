@@ -33,6 +33,12 @@ For academic dialogue, community extensions, and technical feedback regarding th
   
 ---
 
+## ⚙️ Note on Methodology
+
+This project distills and synthesizes scientific data partly based on AI scripting processes initially applied to financial market analysis and backtesting. To that extent, it is necessarily and transparently AI centric (as disclosed), if not analog to the core directive of the paper itself.
+
+---
+
 ## ⚖️ Intellectual Property & Copyright Notice
 
 © 2026 Patrick Boyer. All rights reserved.
