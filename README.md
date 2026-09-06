@@ -21,8 +21,8 @@ If you are building on this research framework or referencing it in an article, 
 
 1. **The Core Paper:** Read and cite the full framework layout on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260254).
 2. **The Active Discussion:** Join the ongoing community debate and read supplementary essays on [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
-3. **[Read the Core Paper (PDF)](./01_semantic_mabn_theory.pdf)**
-4. **[Read the Initial Peer Review (PDF)](./02_ai_peer_review_initial.pdf)**
+3. **[Read the Core Paper (PDF)](./1_semantic_mabn_theory.pdf)**
+4. **[Read the Initial Peer Review (PDF)](./2_ai_peer_review_initial.pdf)**
 
 ---
 
