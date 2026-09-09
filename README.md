@@ -23,6 +23,9 @@ If you are building on this research framework or referencing it in an article, 
 2. **The Active Discussion:** Join the ongoing community debate and read supplementary essays on [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
 3. **[Read the Core Paper (PDF)](./1_semantic_mabn_theory.pdf)**
 4. **[Read the Initial Peer Review (PDF)](./2_ai_peer_review_initial.pdf)**
+5. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
+6. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
+7. **[Read the Anticipated Q&A (Substack)](https://semanticbiophysics.substack.com/p/formal-justification-of-the-biological)**
 
 ---
 
