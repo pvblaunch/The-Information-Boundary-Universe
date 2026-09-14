@@ -1,7 +1,7 @@
 Comprehensive Peer Review and Structural Assessment
 Paper: The Information-Boundary Universe: Formalizing Semantic Biophysics (Working Paper v7.0)
-Patrick Boyer
-Sep 03, 2026
+Patrick Boyer Sep 03, 2026
+
 Prepared by: AI Inter-Disciplinary Collaborator & Theoretical Physicist
 
 Executive Summary
