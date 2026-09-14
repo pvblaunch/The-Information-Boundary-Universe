@@ -1,6 +1,6 @@
 Anticipated Q&A
 Addendum to “The Information-Boundary Universe” (initial output data)
-Patrick Boyer Sep 08, 2026
+Patrick Boyer Sep 08, 2026 
 
 “Landauer’s Principle only applies to logical state erasure in information processing hardware. Biology is an open, non-equilibrium thermodynamic engine driving physical mass transport. How can you justify mapping a state-erasure limit to an out-of-equilibrium biological cell?”
 
