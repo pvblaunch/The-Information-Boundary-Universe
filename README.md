@@ -1,6 +1,6 @@
 # The Information-Boundary Universe: Formalizing Semantic Biophysics and Quantum Error-Correction Protocols in Multi-Agent Biological Networks
 
-### Formalizing Semantic Biophysics
+### Formalizing Semantic Biophysics 
 
 This repository serves as the public archive, living document ledger and structural vault for the extensions of Semantic Biophysics. 
 
