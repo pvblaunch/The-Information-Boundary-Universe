@@ -1,7 +1,7 @@
 The Information-Boundary Universe: Formalizing Semantic Biophysics
 Quantum Error-Correction Protocols in Multi-Agent Biological Networks
 Patrick Boyer
-Sep 02, 2026 
+Sep 02, 2026  
 
 Abstract
 
