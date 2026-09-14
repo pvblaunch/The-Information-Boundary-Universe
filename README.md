@@ -26,6 +26,7 @@ If you are building on this research framework or referencing it in an article, 
 5. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
 6. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
 7. **[Read the Anticipated Q&A (Substack)](https://semanticbiophysics.substack.com/p/formal-justification-of-the-biological)**
+8. **[Read the Reader Friendly Overview (Substack)](https://semanticbiophysics.substack.com/p/reader-the-living-cosmos-a-quantum)**
 
 ---
 
