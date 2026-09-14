@@ -2,7 +2,7 @@
 
 ### Formalizing Semantic Biophysics
 
-This repository serves as the public archive, living document ledger and structural vault for the extensions of Semantic Biophysics.
+This repository serves as the public archive, living document ledger and structural vault for the extensions of Semantic Biophysics. 
 
 ---
 
