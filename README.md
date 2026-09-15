@@ -19,8 +19,8 @@ Further, we introduce the directive of Semantic Accuracy as an Active Biophysica
 
 If you are building on this research framework or referencing it in an article, please use the following official channels:
 
-1. **The Core Paper:** Read and cite the full framework layout on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260254).
-2. **The Active Discussion:** Join the ongoing community debate and read supplementary essays on [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
+1. **The Core Paper:** Read and cite the full framework on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260254).
+2. **The Active Discussion:** Join the community dialog at [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
 3. **[Read the Core Paper (PDF)](./1_semantic_mabn_theory.pdf)**
 4. **[Read the Initial Peer Review (PDF)](./2_ai_peer_review_initial.pdf)**
 5. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
