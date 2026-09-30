@@ -27,7 +27,7 @@ If you are building on this research framework or referencing it in an article, 
 6. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
 7. **[Read the Anticipated Q&A (Substack)](https://semanticbiophysics.substack.com/p/formal-justification-of-the-biological)**
 8. **[Read the General Overview (Substack)](https://semanticbiophysics.substack.com/p/reader-the-living-cosmos-a-quantum)**
-9. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe)**
+9. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/ez-reader-the-true-problem-of-noise)**
 
 ---
 
