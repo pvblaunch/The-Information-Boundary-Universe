@@ -28,6 +28,7 @@ If you are building on this research framework or referencing it in an article, 
 7. **[Read the Anticipated Q&A (Substack)](https://semanticbiophysics.substack.com/p/formal-justification-of-the-biological)**
 8. **[Read the General Overview (Substack)](https://semanticbiophysics.substack.com/p/reader-the-living-cosmos-a-quantum)**
 9. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/ez-reader-the-true-problem-of-noise)**
+10. **[Read the Operational Mathematics (Substack)](https://semanticbiophysics.substack.com/p/operational-mathematics)**
 
 ---
 
