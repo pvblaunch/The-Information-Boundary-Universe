@@ -114,3 +114,4 @@ Further, we introduce the directive of Semantic Accuracy as an Active Biophysica
 - [Anticipated Q&A Markdown](5_anticipated_qa_text.md)
 - [General Overview & Explainer Markdown](6_semantic_mabn_reader_text.md)
 - [EZ Reader Overview & Explainer Markdown](7_ezreader_true_problem_noise.md)
+- [Operational Mathematics Markdown](8_operational_mathematics.md)
