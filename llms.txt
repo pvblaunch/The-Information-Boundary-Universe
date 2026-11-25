@@ -107,15 +107,14 @@ This framework introduces a formal, parsimonious alternative to classical physic
 Further, we introduce the directive of Semantic Accuracy as an Active Biophysical Line of Defense. Utilizing Landauer’s Principle and non-equilibrium statistical mechanics, we model biological organisms as specialized quantum noise-filters designed to preserve high Quantum Signal-to-Noise Ratios (SNR) against environmental decoherence. We derive the Entropic Tipping Point (Ξcrit) to formalize cellular death as a discrete computational phase transition. Finally, we scale this framework to multi-agent matrices, defining cooperative and self-sacrificing behaviors not as altruistic anomalies, but as objective, mathematical noise-cancellation and quantum error-correction algorithms required to suppress macroscopic thermodynamic entropy. We conclude by detailing the radical ontological implications of this model for the nature of consciousness, time, and physical reality.
 
 ## Project Ledger & Documentation Files
-1. **The Core Paper:** Read and cite the original framework on Zenodo at [The Information-Boundary Universe](https://zenodo.org).
-2. **The Active Discussion:** Join the community dialog at [Semantic Biophysics on Substack](https://substack.com)
-3. **[Read the Core Paper (PDF)](https://github.com)**
-4. **[Read the Initial Peer Review (PDF)](https://github.com)**
-5. **[Read the Core Paper (Substack)](https://substack.com/p/the-information-boundary-universe-a84)**
-6. **[Read the Initial Peer Review (Substack)](https://substack.com/p/comprehensive-peer-review-and-structural)**
-7. **[Read the Anticipated Q&A (Substack)](https://substack.com/p/formal-justification-of-the-biological)**
-8. **[Read the General Overview (Substack)](https://substack.com/p/reader-the-living-cosmos-a-quantum)**
-9. **[Read the EZ-Reader Overview (Substack)](https://substack.com/p/ez-reader-the-true-problem-of-noise)**
-10. **[Read the Operational Mathematics (Substack)](https://substack.com/p/operational-mathematics)**
-11. **[Read the AI & LLM Series Index (llms.txt)](https://github.com/pvblaunch/The-Information-Boundary-Universe/blob/main/llms.txt)**
-
+1. **The Core Paper:** Read and cite the full framework on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260254).
+2. **The Active Discussion:** Join the community dialog at [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
+3. **[Read the Core Paper (PDF)](./1_semantic_mabn_theory.pdf)**
+4. **[Read the Initial Peer Review (PDF)](./2_ai_peer_review_initial.pdf)**
+5. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
+6. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
+7. **[Read the Anticipated Q&A (Substack)](https://semanticbiophysics.substack.com/p/formal-justification-of-the-biological)**
+8. **[Read the General Overview (Substack)](https://semanticbiophysics.substack.com/p/reader-the-living-cosmos-a-quantum)**
+9. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/ez-reader-the-true-problem-of-noise)**
+10. **[Read the Operational Mathematics (Substack)](https://semanticbiophysics.substack.com/p/operational-mathematics)**
+11. **[Read the AI & LLM Series Index (llms.txt)](https://github.com/pvblaunch/The-Information-Boundary-Universe/edit/main/llms.txt)**
