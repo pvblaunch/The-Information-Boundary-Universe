@@ -109,12 +109,9 @@ Further, we introduce the directive of Semantic Accuracy as an Active Biophysica
 ## Project Ledger & Documentation Files
 1. **The Core Paper:** Read and cite the full framework on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260254).
 2. **The Active Discussion:** Join the community dialog at [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
-3. **[Read the Core Paper (PDF)](./1_semantic_mabn_theory.pdf)**
-4. **[Read the Initial Peer Review (PDF)](./2_ai_peer_review_initial.pdf)**
-5. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
-6. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
-7. **[Read the Anticipated Q&A (Substack)](https://semanticbiophysics.substack.com/p/formal-justification-of-the-biological)**
-8. **[Read the General Overview (Substack)](https://semanticbiophysics.substack.com/p/reader-the-living-cosmos-a-quantum)**
-9. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/ez-reader-the-true-problem-of-noise)**
-10. **[Read the Operational Mathematics (Substack)](https://semanticbiophysics.substack.com/p/operational-mathematics)**
-11. **[Read the AI & LLM Series Index (llms.txt)](llms.txt)**
+3. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
+4. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
+5. **[Read the Anticipated Q&A (Substack)](https://semanticbiophysics.substack.com/p/formal-justification-of-the-biological)**
+6. **[Read the General Overview (Substack)](https://semanticbiophysics.substack.com/p/reader-the-living-cosmos-a-quantum)**
+7. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/ez-reader-the-true-problem-of-noise)**
+8. **[Read the Operational Mathematics (Substack)](https://semanticbiophysics.substack.com/p/operational-mathematics)**
