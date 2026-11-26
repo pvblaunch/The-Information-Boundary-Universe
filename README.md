@@ -29,7 +29,7 @@ If you are building on this research framework or referencing it in an article, 
 8. **[Read the General Overview (Substack)](https://semanticbiophysics.substack.com/p/reader-the-living-cosmos-a-quantum)**
 9. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/ez-reader-the-true-problem-of-noise)**
 10. **[Read the Operational Mathematics (Substack)](https://semanticbiophysics.substack.com/p/operational-mathematics)**
-11. **[Read the AI & LLM Series Index (llms.txt)](https://pvblaunch.github.io/The-Information-Boundary-Universe)**
+11. **[Read the AI & LLM Series Index (llms.txt)](https://pvblaunch.github.io/The-Information-Boundary-Universe/llms.txt)**
 
 ---
 
