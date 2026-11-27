@@ -1,6 +1,6 @@
 # The Information-Boundary Universe: Formalizing Semantic Biophysics
 
-## Abstract
+## Abstract (from the Core Paper)
 This framework introduces a formal, parsimonious alternative to classical physicalism: the universe is a fundamental semantic information engine, space-time functions as its real-time holographic rendering boundary, and biological life is an advanced technological interface evolved to execute localized, non-algorithmic computation. By integrating the computational and logical constraints of Max Planck, Kurt Gödel, and Alan Turing—alongside the psycho-informational frameworks of Federico Faggin and Giacomo Mauro D’Ariano—we demonstrate that a complex informational cosmos cannot exist as a static, pre-calculated block; it mathematically mandates step-by-step, sequential execution in real-time. We discard the physical duplication mechanics of Hugh Everett III’s Many-Worlds Interpretation, replacing them with a non-local Quantum Entanglement Synchronizer to resolve multi-observer coordination.
 
 Further, we introduce the directive of Semantic Accuracy as an Active Biophysical Line of Defense. Utilizing Landauer’s Principle and non-equilibrium statistical mechanics, we model biological organisms as specialized quantum noise-filters designed to preserve high Quantum Signal-to-Noise Ratios (SNR) against environmental decoherence. We derive the Entropic Tipping Point (Ξcrit) to formalize cellular death as a discrete computational phase transition. Finally, we scale this framework to multi-agent matrices, defining cooperative and self-sacrificing behaviors not as altruistic anomalies, but as objective, mathematical noise-cancellation and quantum error-correction algorithms required to suppress macroscopic thermodynamic entropy. We conclude by detailing the radical ontological implications of this model for the nature of consciousness, time, and physical reality.
@@ -15,8 +15,7 @@ Further, we introduce the directive of Semantic Accuracy as an Active Biophysica
 7. **[Read the EZ-Reader Overview (Substack)](https://semanticbiophysics.substack.com/p/ez-reader-the-true-problem-of-noise)**
 8. **[Read the Operational Mathematics (Substack)](https://semanticbiophysics.substack.com/p/operational-mathematics)**
 
-## Core Overview 
-(EZ-Reader) The True Problem of Noise
+## (EZ-Reader) The True Problem of Noise
 Biophysics and Social Entropy: The Thermodynamics of Morality
 Patrick Boyer
 Sep 29, 2026
@@ -137,8 +136,7 @@ The Full Version-Controlled Archive is at GitHub.
 
 Note on methodology: This project distills and synthesizes scientific data partly based on AI scripting processes initially applied to financial market analysis and backtesting. To that extent, it is necessarily and transparently AI centric (as disclosed), if not analog to the core directive of the paper itself.
 
-## Core Paper
-(Paper) The Information-Boundary Universe: Formalizing Semantic Biophysics
+## (Paper) The Information-Boundary Universe: Formalizing Semantic Biophysics
 Quantum Error-Correction Protocols in Multi-Agent Biological Networks
 Patrick Boyer
 Sep 02, 2026
