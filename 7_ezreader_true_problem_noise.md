@@ -29,7 +29,7 @@ Semantics (Meaning/Consciousness): This is the inner reality—the realm of qual
 
 Faggin, alongside quantum physicist Giacomo Mauro D’Ariano, used Quantum Information Theory (QIT) to build the mathematical bridge showing that quantum fields are consciousness. Consciousness is the primary substance and quantum information is just its native expression or language.
 
-(Conversely, yet parallel, we use Semantic Biophysics to frame the axiom in terms of strict information theory and boundary physics. From our view, the primary field is the informational field. Consciousness functions as the operational canvas that translates semantic potential into structure).
+(Building on Faggin and D’Ariano’s foundation, Semantic Biophysics formalizes how this primary field operates at physical boundaries: consciousness serves as the fundamental semantic canvas, while space-time and biology function as the operational syntactic interface that translates meaning into structured physical reality.)
 
 The Foundation
 Classical physicalism has an institutional ceiling. It cannot solve the “hard problem” of how dead matter creates felt experiences. It cannot explain why the quantum wave function collapses upon observation. It cannot explain why our fundamental cosmological equations lack an explanation for the flowing arrow of time.
