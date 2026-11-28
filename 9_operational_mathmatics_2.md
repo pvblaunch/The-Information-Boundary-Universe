@@ -143,6 +143,6 @@ Lab Verdict: Best Experimental Route. Rather than measuring heat with nanodiamon
 
 The Bottom Line on Lab Feasibility
 
-The Calorimetry Test is Possible, With Caveats: State-of-the-art vacuum-isolated chip calorimeters (~4–5 pW resolution) can resolve a 10 pW shift, provided the cell’s baseline ATP metabolism is chemically clamped so ordinary chemical heat doesn’t mask the informational spike. [1]
+The Calorimetry Test is Possible, With Caveats: State-of-the-art vacuum-isolated chip calorimeters (~4–5 pW resolution) can resolve a 10 pW shift, provided the cell’s baseline ATP metabolism is chemically clamped so ordinary chemical heat doesn’t mask the informational spike.
 
-The Nanodiamond Role Needs Tweaking: Intracellular nanodiamond thermometry (~50–100 mK precision) isn’t sensitive enough to catch the tiny temperature bump of a Landauer flash in water, but NV-diamond spin magnetometry is ideal for tracking the coherence drop F(t) itself. [1, 2]
+The Nanodiamond Role Needs Tweaking: Intracellular nanodiamond thermometry (~50–100 mK precision) isn’t sensitive enough to catch the tiny temperature bump of a Landauer flash in water, but NV-diamond spin magnetometry is ideal for tracking the coherence drop F(t) itself.
