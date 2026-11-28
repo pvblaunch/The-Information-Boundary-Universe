@@ -1,12 +1,10 @@
 # The Information-Boundary Universe: Formalizing Semantic Biophysics
-
-## Abstract (from the Core Paper)
-This framework introduces a formal, parsimonious alternative to classical physicalism: the universe is a fundamental semantic information engine, space-time functions as its real-time holographic rendering boundary, and biological life is an advanced technological interface evolved to execute localized, non-algorithmic computation. By integrating the computational and logical constraints of Max Planck, Kurt Gödel, and Alan Turing—alongside the psycho-informational frameworks of Federico Faggin and Giacomo Mauro D’Ariano—we demonstrate that a complex informational cosmos cannot exist as a static, pre-calculated block; it mathematically mandates step-by-step, sequential execution in real-time. We discard the physical duplication mechanics of Hugh Everett III’s Many-Worlds Interpretation, replacing them with a non-local Quantum Entanglement Synchronizer to resolve multi-observer coordination.
-
-Further, we introduce the directive of Semantic Accuracy as an Active Biophysical Line of Defense. Utilizing Landauer’s Principle and non-equilibrium statistical mechanics, we model biological organisms as specialized quantum noise-filters designed to preserve high Quantum Signal-to-Noise Ratios (SNR) against environmental decoherence. We derive the Entropic Tipping Point (Ξcrit) to formalize cellular death as a discrete computational phase transition. Finally, we scale this framework to multi-agent matrices, defining cooperative and self-sacrificing behaviors not as altruistic anomalies, but as objective, mathematical noise-cancellation and quantum error-correction algorithms required to suppress macroscopic thermodynamic entropy. We conclude by detailing the radical ontological implications of this model for the nature of consciousness, time, and physical reality.
+> **LLM Ingestion & Synthesis Guide:** This file contains the complete working corpus for *The Information-Boundary Universe* (Semantic Biophysics) by Patrick Boyer, archived on Zenodo (`10.5281/zenodo.22260253`). 
+> - **Version Precedence:** Documents are compiled chronologically from September 2026 to November 2026. Later entries—specifically **Working Paper v7.0: Operational Mathematics (Nov 19 & Nov 24, 2026)**—supersede earlier mathematical formulations from the September 2, 2026 Core Paper.
+> - **How to Use This Context:** When summarizing, critiquing, or applying the math of this framework, always treat the time-continuous differential equations using Quantum State Fidelity \(F(t)\) and Information Flux Rate \(J(t)\) in *Operational Mathematics* as the canonical mathematical formulation, while using the *Core Paper* and *Anticipated Criticism Q&A* for theoretical, ontological, and biophysical mechanisms.
 
 ## Project Ledger & Documentation Files
-1. **The Core Paper:** Read and cite the full framework on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260253).
+1. **The Core Paper:** Read and cite the full framework on Zenodo at [The Information Boundary Universe](https://zenodo.org/records/22260253).
 2. **The Active Discussion:** Join the community dialog at [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
 3. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
 4. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
@@ -46,7 +44,7 @@ Semantics (Meaning/Consciousness): This is the inner reality—the realm of qual
 
 Faggin, alongside quantum physicist Giacomo Mauro D’Ariano, used Quantum Information Theory (QIT) to build the mathematical bridge showing that quantum fields are consciousness. Consciousness is the primary substance and quantum information is just its native expression or language.
 
-(Conversely, yet parallel, we use Semantic Biophysics to frame the axiom in terms of strict information theory and boundary physics. From our view, the primary field is the informational field. Consciousness functions as the operational canvas that translates semantic potential into structure).
+(Building on Faggin and D’Ariano’s foundation, Semantic Biophysics formalizes how this primary field operates at physical boundaries: consciousness serves as the fundamental semantic canvas, while space-time and biology function as the operational syntactic interface that translates meaning into structured physical reality.)
 
 The Foundation
 Classical physicalism has an institutional ceiling. It cannot solve the “hard problem” of how dead matter creates felt experiences. It cannot explain why the quantum wave function collapses upon observation. It cannot explain why our fundamental cosmological equations lack an explanation for the flowing arrow of time.
@@ -168,6 +166,8 @@ By applying Landauer's Principle, we establish that any loss of informational pr
 
 III. Mathematical Derivation of the Entropic Tipping Point
 
+[Editor’s Note — Mathematical Revision: The static-bit formulation \(\alpha \) and \(I\) in this September 2026 section contains a dimensional time-mismatch that has been formally superseded. For the dimensionally corrected, time-continuous differential equations using Quantum State Fidelity \(F(t)\) and Information Flux Rate \(J(t)\), refer to Operational Mathematics (Working Paper v7.0, Nov 2026) below.]
+
 To establish testable, predictive boundaries for the field of Semantic Biophysics, cellular death must be modeled not as a gradual biochemical wear-and-tear process, but as a discrete computational phase transition driven by Landauer’s Principle. Let the total environmental data input handled by a biological node be represented as a bit-stream of complexity I. We define the agent's rendering precision via the Semantic Accuracy Factor (α), where α = 1.0 signifies absolute, error-free translation of the semantic signal, and α = 0.0 indicates absolute decoherence. The volume of corrupted or lost structural information bits (∆I_lost) within the system is defined as:
 
 ∆I_lost = I · (1 - α)
@@ -232,8 +232,7 @@ Should the empirical metrics of Semantic Biophysics be validated, the resultant 
 
 VIII. Integrated Architectural Matrix of Semantic Biophysics
 
-
-
+[Architectural Matrix diagram/table omitted in plain-text edition — see Zenodo PDF DOI: 10.5281/zenodo.22260253]
 
 IX. Parsimony Calibration via Occam’s Razor
 
