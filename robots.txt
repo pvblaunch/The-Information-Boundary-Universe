@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+LLMs-Txt: https://semanticbiophysics.github.io/The-Information-Boundary-Universe/llms.txt
