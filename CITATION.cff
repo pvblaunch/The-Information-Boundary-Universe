@@ -1,8 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use or reference this research framework, please cite it as below."
 authors:
   - family-names: "Boyer"
-    given-names: "P."
+    given-names: "Patrick"
 title: "The Information-Boundary Universe: Formalizing Semantic Biophysics and Quantum Error-Correction Protocols in Multi-Agent Biological Networks"
+version: "7.0"
 doi: "10.5281/zenodo.22260253"
-date-released: 2026-01-01  
+date-released: 2026-09-02
+url: "https://github.io"
+repository-code: "https://github.com/semanticbiophysics/The-Information-Boundary-Universe"
+license: "CC-BY-4.0"
