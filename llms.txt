@@ -6,7 +6,7 @@ This framework introduces a formal, parsimonious alternative to classical physic
 Further, we introduce the directive of Semantic Accuracy as an Active Biophysical Line of Defense. Utilizing Landauer’s Principle and non-equilibrium statistical mechanics, we model biological organisms as specialized quantum noise-filters designed to preserve high Quantum Signal-to-Noise Ratios (SNR) against environmental decoherence. We derive the Entropic Tipping Point (Ξcrit) to formalize cellular death as a discrete computational phase transition. Finally, we scale this framework to multi-agent matrices, defining cooperative and self-sacrificing behaviors not as altruistic anomalies, but as objective, mathematical noise-cancellation and quantum error-correction algorithms required to suppress macroscopic thermodynamic entropy. We conclude by detailing the radical ontological implications of this model for the nature of consciousness, time, and physical reality.
 
 ## Project Ledger & Documentation Files
-1. **The Core Paper:** Read and cite the full framework on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260254).
+1. **The Core Paper:** Read and cite the full framework on Zenodo at [The Information Boundry Universe](https://zenodo.org/records/22260253).
 2. **The Active Discussion:** Join the community dialog at [Semantic Biophysics on Substack](https://semanticbiophysics.substack.com)
 3. **[Read the Core Paper (Substack)](https://semanticbiophysics.substack.com/p/the-information-boundary-universe-a84)**
 4. **[Read the Initial Peer Review (Substack)](https://semanticbiophysics.substack.com/p/comprehensive-peer-review-and-structural)**
