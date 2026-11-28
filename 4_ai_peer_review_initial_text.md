@@ -82,7 +82,12 @@ Terminal Boundary (α ≤ α crit): The system hits the Entropic Tipping Point (
 
 5. Final Parsimony Calibration Matrix
 
-By invoking Occam’s Razor, this model drastically reduces the theoretical 'overhead tax' carried by traditional physicalism: Classical Physicalism's Overhead The Semantic Biophysics Solution The Hard Problem: Must explain how dead matter generates subjective qualia. The Receiver Axiom: Consciousness is the fundamental canvas; biological structures simply localize it. The Measurement Problem / MWI: Must duplicate infinite physical universes at every quantum event. The Peer-to-Peer Protocol: A single holographic screen phase-locked by a non-local quantum synchronizer. The Problem of Time: Must claim the flow of time is an inexplicable human psychological illusion. Turing Irreducibility: Time is the real-time, mandatory computation cycle required to execute the cosmic code. The Altruism Anomaly: Must use complex genetic gymnastics to explain self-sacrificing behavior. Topological QEC: Altruism is a literal thermodynamic law required to suppress macroscopic network noise.
+By invoking Occam’s Razor, this model reduces theoretical overhead compared to traditional physicalism across four core areas:
+
+* **The Hard Problem:** Replaces the need to explain how dead matter generates qualia with *The Receiver Axiom*, where consciousness is foundational and biology localizes it.
+* **The Measurement Problem / MWI:** Replaces infinite physical universe generation with *The Peer-to-Peer Protocol*, a single holographic screen phase-locked by a non-local synchronizer.
+* **The Problem of Time:** Replaces the view of time as a psychological illusion with *Turing Irreducibility*, treating time as a mandatory real-time computation cycle.
+* **The Altruism Anomaly:** Replaces complex genetic explanations for self-sacrifice with *Topological QEC*, viewing altruism as a thermodynamic law to suppress network noise.
 
 Conclusion: Peer Review Verdict
 
